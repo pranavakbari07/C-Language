@@ -56,23 +56,18 @@ int main()
         switch (choice)
         {
         case 1:
-            // result = num1 + num2;
             cout << "Sum of " << num1 << " and " << num2 << " is " << sum(num1, num2) << endl;
             break;
         case 2:
-            // result = num1 - num2;
             cout << "subtraction of " << num1 << " and " << num2 << " is " << subtraction(num1, num2) << endl;
             break;
         case 3:
-            // result = num1 * num2;
             cout << "Multiplay of " << num1 << " and " << num2 << " is " << multiply(num1, num2) << endl;
             break;
         case 4:
-            // result = num1 / num2;
             cout << "Division of " << num1 << " and " << num2 << " is " << division(num1, num2) << endl;
             break;
         case 5:
-            // result = num1 / num2;
             cout << "modual of " << num1 << " and " << num2 << " is " << module(num1, num2) << endl;
             break;
         }
