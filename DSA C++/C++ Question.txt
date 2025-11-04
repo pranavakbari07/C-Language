@@ -1,0 +1,252 @@
+1.what is DSA?
+-> Data Structures and Algorithms, a fundamental area of computer science and programming. 
+
+2.Full Form for DSA?
+-> Data Structure Algorithm.
+
+3.What is Programming?
+-> Programming is the process of giving instructions to a computer in a language it understands, called code. It's essentially a collaboration between humans and machines where humans create instructions for a computer to follow and solve problems. 
+
+4.What is GitHub?
+-> GitHub is a web-based platform where developers can store, share, and collaborate on code.It uses Git, a version control system, to manage changes to code over time, making it easy to track changes, revert to previous versions, and collaborate with others. 
+
+5.What is Git?
+-> Git is a distributed version control system (DVCS) used to track changes in computer files, particularly code in software development. 
+
+6.What is Operator?
+-> An operator is a symbol or keyword that tells the computer what operation it should perform on values or variables.
+
+7.How many type of the operator?
+-> 1.Arithmetic Operators (+,-,*,/,%)
+   2.Relational Operators (<,<=,>,>=,==,!=)
+   3.Logical Operators (&&,||,!)
+   4.Assignment Operators (=,+=,-=,*=,/=,%=)
+   5.Miscellaneous Operator (?:,sizeof,*,&)
+   6.Unary Operators (++,--)
+
+8.DMA :- Data Structure and Algorithm
+
+9.How many types of Conversion?
+->  1.Implicit Conversion
+    2.Explicit Conversion
+
+10.Conditional Statements :-
+->  1.if
+    2.if...else
+    3.ladder
+    4.nested
+    5.ternary (if...else) (?:)
+    6.switch case
+
+11.How many type of loops?
+-> 1.Entry Control Loop :-
+     - While loop
+     - for loop
+   2.Exit Control Loop :-
+     - do while loop
+
+12.What is Flowchart?
+-> A flowchart is a visual representation of a process or workflow, showing the sequence of steps, decisions, and tasks involved.
+
+13.What is a Pattern?
+-> A "Pattern" is a specific arrangement of characters or symbols in a systematic and predictable manner.
+
+14.How many Categories of patten?
+-> 1.Number Patten
+   2.Charater Patten
+   3.Symbol Patten
+
+15.Type of Patten?
+-> 1.Without Space
+   2.With Space
+   3.Custom
+
+16.Structure of Patten?
+-> Any type of patten can be done using the coding structure of nesred loop.
+
+17.What is Array?
+-> An array is a collection of elements of the same data type.
+
+18.How many type of arry?
+-> 1.1D Array
+   2.2D,3D,...,ND Array
+
+19.What is 1D Array?
+-> A 1D array is a collection of elements of the same data type arranged in linear sequence.
+
+20.How many Array Operatation?
+-> 1.Insertion
+   2.Iteration
+   3.Modification
+
+21.What is For each loop?
+-> There is also a "for-each loop", which is used to loop through elements in an array.
+
+22.What is the syntex of foe each loop?
+-> for (type variableName : arrayName) {
+  // code block to be executed
+}
+
+23.What is sizeof() Array?
+-> The sizeof()function in C is a built-in function that is used to calculate the size (in bytes)that a data type occupies in ​the computer’s memory.
+
+24.Full form for CEUD?
+-> C = Creat 
+   R = Read
+   U = Update
+   D = Delete
+
+25.What is 2D Array?
+-> A 2D array is a data structure that represents a table or a matrix with rows and columns.
+
+26.Full form of 1D and 2D Array?
+-> 1D Array : 1 dimensional Array
+   2D Array : 2 dimensional Array
+
+27.What is Function?
+-> A function is a self-contained block of code that performs a specific task.
+
+28.UDF Full Form?
+-> UDF : User Define function
+
+29.How many type of UDF Function?
+-> There are 4 type UDF function.
+
+30.Types of UDF?
+-> 1.TNRN :- Take Nothing , Return Nothing
+   2.TNRS :- Take Nothing , Return Something
+   3.TSRN :- Take Something , Return Nothing
+   4.TSRS :- Take Something , Return Something
+
+31.Waht is a Nested Function?
+-> A nested function usually refers to a function that is defined within another function.
+
+32.What is a Recursion? 
+-> Recursion is a programming concept in which a function calls itself directly or indirectly in order to solve a problem.
+
+33.What is a Pointer?
+-> A pointer is a variable which holds a memory address of another variable.
+
+34.What is Chain of Pointer?
+-> A Pointer of Pointer is a concept where a pointer variable holds the address of another pointer variable.
+
+35.What is an Array of pointer?
+->Array of pointer means we have to create an array of multiple pointers.
+
+36.What is Reference Variable?
+-> A reference variable is an alias or alternative name for an existing variable.
+
+37.How many types of Argument Passing?
+-> 1.Passing a value or a simple variable
+   2.Passing an array
+   3.Passing a pointer
+   4.Passing an address
+
+38.How many types of Function Calling?
+-> 1.Call by Value
+   2.Call by Reference
+   3.Call by Const Reference
+
+39.OOPs :- Object Oriented Programming System
+
+40.Principles of OOPs?
+-> 1.Abstraction
+   2.Encapsulation
+   3.Inheritance
+   4.Polymorephism
+
+41.Encapsulation Method :- 
+-> 1.Getter...Setter (Public)
+   2.this keyword
+   3.Constructor
+   4.Destrutor
+   5.Static keyword
+
+42.What is a array of objects?
+-> An array of objects is a collection of objects of the same class stored in contiguous memory locations.
+
+41.Scope Resolution Operator in commonly use :-
+-> 1.Access Global Variables
+   2.Access Static Members
+
+42.What is Static keyword?
+-> Instance is not required to access the static members.
+
+43.Use case of static keyword :-
+-> 1.Static Data Members
+   2.Static Member Function
+
+44.What is a Constructor?
+-> It has the same name as the class and is used to initialize the object's data members.
+
+45.Types of Constructors?
+-> 1.Defult Constructor
+   2.Parameterized Constructor
+   3.Copy Constructor
+
+46.What is a Destructors?
+-> A destructor are particularly useful for performing cleanup tasks.
+
+47.Types of Inheritance :-
+-> 1.Single / Simple
+   2.Multilevel
+   3.Multiple
+   4.Hierarchical
+   5.Hybrid
+
+48.What is Ambiguity in Hybrid Inheritance?
+-> Ambiguity in hybrid inheritance arises when there are multiple paths to access a particular in a derived class.
+
+49.Types of Polymorphism :- 
+-> 1.Compile-Time :-
+     i. Method Overloading
+    ii. Operator Overloading
+ 
+    2.Run-Time :-
+      i. Method Overriding
+
+50.Types of Abstraction :-
+->1.Access Modifiers / Access Specifiers :-
+      i. Public
+     ii. Private
+    iii. Protected
+  2.Abstract Class
+  3.Interface
+
+51.DMA :- Dynamic Memory Allocation
+
+52.SMA :- Static Memory Allocation
+
+53.What is static memory allocation?
+-> Memory allocated during compile time is called static memory.
+
+54.Memory Structure :-
+-> 1.Data Section (Global & Static variable)
+   2.Code Section (Holds the compiled program code)
+   3.Stack (Function calls and return, Local variable - Managed by Compiler Automatically)
+   4.Heap (Dynamic Memory Allocation - Managed by Programmer)
+
+55.Heap usage :-
+-> 1.Operator like new (C++)
+   2.Function malloc (C)
+
+56.What is dangling pointer?
+-> A dangling pointer in C++ is a pointer to a memory location that has been deallocated, or freed.
+
+57.RAM :- Random Access Memory
+
+58.Difference between C and C++ :-
+-> 1.C is a middle level language.
+     C++ is a high level language. 
+   2.C support function programming.
+     C++ support OOPs concept.
+   3.C is a Structure Programming Language.
+     C++ is an Object-Oriented Programming Language.
+   4.In C language :- Scanf(),Printf()
+     In C++ language :- cin>> , cout<<
+
+59.2D Array :- Two-Dimensional Array
+
+60.ROM :- Read only Memory
+
+61.DRY :- Don't Repeat Yourself
